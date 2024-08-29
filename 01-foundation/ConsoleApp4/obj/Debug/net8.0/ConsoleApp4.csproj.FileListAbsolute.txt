@@ -1,0 +1,14 @@
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+D:\Progra-101\CSharp\aprende-programar-c-sharp\01-foundation\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
