@@ -47,3 +47,14 @@ Función que no cuenta con un nombre y puede ser guardada como variable, arrow Fu
 Es un patrón en el cuál se cumple lo siguiente:
 1. Una función se llama así msima
 2. Se debe cumplir cierta condición para que se llame así misma.
+
+## Closures ( Clausuras )
+
+Una clausura es cuando una función tiene variables para mantenter sus variables, siendo que también pueden retornar una función como resultado.
+Es útil porque se puede compartir información sin depender de variables externas a la función.
+
+## Currificación
+
+Es la declaración de una función que no recibe nada, pero retorna 1 función que retorna otra función con las siguientes parametros:
+1. El primer retorno regresa una función con un valor inicial que se plantea conservar en la última función
+2. La segunda función es la variante que ya tiene un valor inicial pero recibe diferentes valores de cierto tipo para regesar diferentes cosas

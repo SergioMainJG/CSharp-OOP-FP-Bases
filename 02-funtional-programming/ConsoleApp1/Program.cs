@@ -94,8 +94,8 @@ var messages = (Func<string> fn) =>
 
 messages(() => "Mensaje central");
 
-Action<string> print = ( string msg ) => Console.WriteLine(msg); 
-print("Un mensaje");
+//Action<string> print = ( string msg ) => Console.WriteLine(msg); 
+//print("Un mensaje");
 
 Predicate<int> isPair = (int number) => number % 2 == 0;
 if (isPair(12)) Console.WriteLine("Es par");
@@ -112,6 +112,62 @@ void printNumbers(int[] numbers, int index = 0)
 }
 
 printNumbers( numbers, 0 );
+
+Action<string> print()
+{
+    int counter = 0;
+    return (string message) =>
+    {
+        counter++;
+        Console.WriteLine($"Ejecución {counter} {message}");
+    };
+}
+
+var show1 = print();
+var show2 = print();
+show1("Un mensaje");
+show1("Otro mensaje");
+show2("Un mensaje con show2");
+
+//Func<float, Func<float, float>> Mul()
+//{
+//    return (float a) =>
+//    {
+//        return (float b) => a * b;
+//    };
+//}
+
+Func<float, Func<float, float>> mul2 = a => b => a * b;
+
+//var m = mul();
+
+//var mx10 = mul(10f);
+float res1 = mul2(10f)(9f);
+
+Console.WriteLine(res1);
+
+//Func<string, Func<string, string>> Word()
+//{
+//    return (string word) =>
+//    {
+//        return (string word2) => string.Concat(word, word2);
+//    };
+//}
+//var concat          = Word();
+
+Func< string, Func<string, string>> Word = greeting => name => string.Concat(greeting, name);
+
+var greetingBase    = Word("Hola, ");
+var greetingSergio  = greetingBase("Sergio!");
+var greetingRafa    = greetingBase("Rafa!");
+var greetingAdrian  = greetingBase("Adrian!");
+var greetingNapoles = greetingBase("Napoles!");
+
+Console.WriteLine($"{greetingSergio}");
+Console.WriteLine($"{greetingRafa}");
+Console.WriteLine($"{greetingAdrian}");
+Console.WriteLine($"{greetingNapoles}");
+
 class Beer
 {
     public string Name { get; set; }

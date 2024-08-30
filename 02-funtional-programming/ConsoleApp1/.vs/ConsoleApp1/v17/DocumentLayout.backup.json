@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Progra-101\\CSharp\\aprende-programar-c-sharp\\02-funtional-programming\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EE8961C-F63E-46E5-B21A-1D7EA6D1C48C}|ConsoleApp1.csproj|d:\\progra-101\\csharp\\aprende-programar-c-sharp\\02-funtional-programming\\consoleapp1\\notas.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{8EE8961C-F63E-46E5-B21A-1D7EA6D1C48C}|ConsoleApp1.csproj|solutionrelative:notas.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8EE8961C-F63E-46E5-B21A-1D7EA6D1C48C}|ConsoleApp1.csproj|d:\\progra-101\\csharp\\aprende-programar-c-sharp\\02-funtional-programming\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE8961C-F63E-46E5-B21A-1D7EA6D1C48C}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE8961C-F63E-46E5-B21A-1D7EA6D1C48C}|ConsoleApp1.csproj|d:\\progra-101\\csharp\\aprende-programar-c-sharp\\02-funtional-programming\\consoleapp1\\notas.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{8EE8961C-F63E-46E5-B21A-1D7EA6D1C48C}|ConsoleApp1.csproj|solutionrelative:notas.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Progra-101\\CSharp\\aprende-programar-c-sharp\\02-funtional-programming\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Progra-101\\CSharp\\aprende-programar-c-sharp\\02-funtional-programming\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAApwG8AAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\Progra-101\\CSharp\\aprende-programar-c-sharp\\02-funtional-programming\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAMwKIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T16:53:26.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "notas.md",
               "DocumentMoniker": "D:\\Progra-101\\CSharp\\aprende-programar-c-sharp\\02-funtional-programming\\ConsoleApp1\\notas.md",
               "RelativeDocumentMoniker": "notas.md",
               "ToolTip": "D:\\Progra-101\\CSharp\\aprende-programar-c-sharp\\02-funtional-programming\\ConsoleApp1\\notas.md",
               "RelativeToolTip": "notas.md",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-29T16:56:30.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T16:56:30.374Z"
             }
           ]
         }
